@@ -1,0 +1,19 @@
+{
+  "name": "mockapilocations",
+  "version": "1.0.0",
+  "description": "Testing propose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayanSuresh/mockAPILocations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayanSuresh/mockAPILocations/issues"
+  },
+  "homepage": "https://github.com/SayanSuresh/mockAPILocations#readme"
+}
